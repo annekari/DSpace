@@ -32,7 +32,7 @@
         <jackson.version>2.8.11</jackson.version>
         <jersey.version>2.26</jersey.version>
         <hibernate.version>5.2.8.Final</hibernate.version>
-        <hibernate-validator.version>5.4.2.Final</hibernate-validator.version>
+        <hibernate-validator.version>6.0.16.Final</hibernate-validator.version>
         <!-- PIN Solr to 7.3.x until SOLR-12858 is fixed. This bug affects all integration tests that use Solr
              https://issues.apache.org/jira/browse/SOLR-12858 -->
         <solr.client.version>7.3.1</solr.client.version>
